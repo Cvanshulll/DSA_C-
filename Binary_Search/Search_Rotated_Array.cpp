@@ -50,6 +50,7 @@ int binary_Search(int arr[],  int key, int s, int e )
 int main()
 {
   int arr[7]={6, 7, 1, 2, 3, 4, 5};
+  
   int Target = 1;
   int size =7;
   int start =0;
