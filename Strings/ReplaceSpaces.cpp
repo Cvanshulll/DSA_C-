@@ -1,3 +1,6 @@
+//                         https://www.codingninjas.com/codestudio/problems/replace-spaces_1172172?leftPanelTab=1                               //
+
+
 string replaceSpaces(string &str){
 	// Write your code here.
 //     string t = "";
